@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ogwynn1
-- 👀 I’m interested in developing my skills and knowledge of computer programming and web development languages.
-- 🌱 I’m currently learning how to use and work with github.
-- 💞️ I’m looking to collaborate on future projects involving web3 and blockchains.
+- 👀 I’m developing my skills currently with Python3 as my first computer programming language.
+- 🌱 I’m currently learning how to program with Ruby & Ruby-on-rails, whilst finding my way around github.
+- 💞️ I’m looking to collaborate on future projects involving; web3 & blockchain technologies.
 - 📫 How to reach me - currently only able to be contacted via github until further notice, thank you.
 
 <!---
