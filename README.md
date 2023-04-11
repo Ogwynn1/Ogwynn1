@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ogwynn1
-- 👀 I’m developing my skills currently with Python3 as my first computer programming language.
-- 🌱 I’m currently learning how to program with CS50, whilst finding my way around github.
-- 💞️ I’m looking to collaborate on future projects involving; web3 & blockchain technologies.
-- 📫 How to reach me - currently only able to be contacted via github until further notice, thank you.
+- 👀 I’m developing my skills currently with learning the git interface and CLI basics in Linux.
+- 🌱 I’m currently learning how to program using the basics learnt from CS50 and the odinproject.
+- 💞️ I’m looking to collaborate on future projects involving; web3, ruby, C and Python.
+- 📫 How to reach me - currently no way until further progression.
 
 <!---
 Ogwynn1/Ogwynn1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
